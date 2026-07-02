@@ -1,6 +1,8 @@
 # Librarything.com Extended search
 A custom search for Librarything.com Book pages
 
+<img width="340" height="51" alt="image" src="https://github.com/user-attachments/assets/7d041bb7-daa7-4bac-beec-9bfe809c1464" />
+
 ## How to Use
 Install Tampermonkey browser extension (Chrome, Firefox, Safari, Edge)
 
