@@ -1,4 +1,4 @@
-# librarything-search
+# Librarything.com Extended search
 A custom search for Librarything.com Book pages
 
 ## How to Use
